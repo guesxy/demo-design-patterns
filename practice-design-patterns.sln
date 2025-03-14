@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDemo", "01-Singlet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilienceDemo", "03-RetriesAndCircuitBreaker\ResilienceDemo.csproj", "{6739B768-08A5-40F1-B927-8EE8CC41949C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDemo", "04-Mediator\MediatorDemo.csproj", "{0775098B-597A-466F-A616-DC263C207231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6739B768-08A5-40F1-B927-8EE8CC41949C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6739B768-08A5-40F1-B927-8EE8CC41949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6739B768-08A5-40F1-B927-8EE8CC41949C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0775098B-597A-466F-A616-DC263C207231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0775098B-597A-466F-A616-DC263C207231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0775098B-597A-466F-A616-DC263C207231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0775098B-597A-466F-A616-DC263C207231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
