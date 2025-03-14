@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDemo", "02-Reposi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDemo", "01-Singleton\SingletonDemo.csproj", "{CF5D0D52-2EDB-455B-9487-1A82FCD1452A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilienceDemo", "03-RetriesAndCircuitBreaker\ResilienceDemo.csproj", "{6739B768-08A5-40F1-B927-8EE8CC41949C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CF5D0D52-2EDB-455B-9487-1A82FCD1452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF5D0D52-2EDB-455B-9487-1A82FCD1452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF5D0D52-2EDB-455B-9487-1A82FCD1452A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6739B768-08A5-40F1-B927-8EE8CC41949C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6739B768-08A5-40F1-B927-8EE8CC41949C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6739B768-08A5-40F1-B927-8EE8CC41949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6739B768-08A5-40F1-B927-8EE8CC41949C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
